@@ -18,3 +18,4 @@ artifacts:
     - 'cloud_build_latest'
 options:
   machineType: 'N1_HIGHCPU_32'
+.
